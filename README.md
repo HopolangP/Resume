@@ -9,7 +9,7 @@
 <body class="bg-gray-100 text-gray-800 font-sans">
   <!-- Header -->
   <header class="bg-white shadow-md p-6 text-center">
-    <h1 class="text-3xl font-bold">Your Full Name</h1>
+    <h1 class="text-3xl font-bold">Hopolang Pitse</h1>
     <p class="text-lg text-gray-600">Aspiring Data Analyst | Virtual Assistant</p>
   </header>
 
@@ -53,8 +53,8 @@
   <!-- Contact -->
   <footer class="bg-white shadow-inner p-6 text-center">
     <h2 class="text-xl font-semibold mb-2">Contact Me</h2>
-    <p>Email: <a href="mailto:youremail@example.com" class="text-blue-600 hover:underline">youremail@example.com</a></p>
-    <p>LinkedIn: <a href="#" class="text-blue-600 hover:underline">linkedin.com/in/yourprofile</a></p>
+    <p>Email: <a href="mailto:hopolangp@gmail.com" class="text-blue-600 hover:underline">hopolangp@gmail.com</a></p>
+    <p>LinkedIn: <a href="#" class="text-blue-600 hover:underline">linkedin.com/in/Hopolang</a></p>
   </footer>
 </body>
 </html>
