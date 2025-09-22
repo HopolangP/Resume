@@ -9,7 +9,7 @@
 <body class="bg-gray-100 text-gray-800 font-sans">
   <!-- Header -->
   <header class="bg-white shadow-md p-6 text-center">
-    <h1 class="text-3xl font-bold">Your Name</h1>
+    <h1 class="text-3xl font-bold">Hopolang Pitse</h1>
     <p class="text-lg text-gray-600">Aspiring Data Analyst | Virtual Assistant</p>
     <!-- Profile Image -->
     <img src="mine/profile.jpg" alt="Your Name" class="mx-auto mt-4 rounded-full w-32 h-32 object-cover border-2 border-gray-300">
