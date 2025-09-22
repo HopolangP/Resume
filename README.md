@@ -11,7 +11,7 @@
   <header class="bg-white shadow-md p-6 text-center">
     <div class="flex flex-col items-center justify-center">
       <img src="profile.jpeg" alt="Profile Image"
-        class="rounded-full w-32 h-32 object-cover border-4 border-blue-300 shadow-lg mb-4">
+        class="rounded-full w-16 h-16 object-cover border-4 border-blue-300 shadow-lg mb-4">
       <h1 class="text-3xl font-bold mt-2">Hopolang Pitse</h1>
       <p class="text-lg text-gray-600">Aspiring Data Analyst | Virtual Assistant</p>
     </div>
