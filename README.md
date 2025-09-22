@@ -9,10 +9,14 @@
 <body class="bg-gray-100 text-gray-800 font-sans">
   <!-- Header -->
   <header class="bg-white shadow-md p-6 text-center">
-    <h1 class="text-3xl font-bold">Hopolang Pitse</h1>
-    <p class="text-lg text-gray-600">Aspiring Data Analyst | Virtual Assistant</p>
-    <img src="profile.jpeg" alt="Profile Image" class="mx-auto mt-4 rounded-full w-32 h-32 object-cover border-2 border-gray-300">
+    <div class="flex flex-col items-center justify-center">
+      <img src="profile.jpeg" alt="Profile Image"
+        class="rounded-full w-32 h-32 object-cover border-4 border-blue-300 shadow-lg mb-4">
+      <h1 class="text-3xl font-bold mt-2">Hopolang Pitse</h1>
+      <p class="text-lg text-gray-600">Aspiring Data Analyst | Virtual Assistant</p>
+    </div>
   </header>
+
   <!-- About Me -->
   <section class="max-w-3xl mx-auto p-8">
     <h2 class="text-2xl font-semibold mb-4">About Me</h2>
@@ -23,6 +27,7 @@
       for better decision-making.
     </p>
   </section>
+
   <!-- Skills -->
   <section class="bg-gray-200 p-8">
     <div class="max-w-3xl mx-auto">
@@ -37,6 +42,7 @@
       </ul>
     </div>
   </section>
+
   <!-- Projects -->
   <section class="max-w-3xl mx-auto p-8">
     <h2 class="text-2xl font-semibold mb-4">Projects</h2>
@@ -47,6 +53,7 @@
       <li><a href="#" class="text-blue-600 hover:underline">Administrative Task Automation</a></li>
     </ul>
   </section>
+
   <!-- Contact -->
   <footer class="bg-white shadow-inner p-6 text-center">
     <h2 class="text-xl font-semibold mb-2">Contact Me</h2>
